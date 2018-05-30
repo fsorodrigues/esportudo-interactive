@@ -1,237 +1,721 @@
-Year,Rank_pre,Rank_post,Code
-1994,3,1,BRA
-1994,4,2,ITA
-1994,10,3,SWE
-1994,1,4,GER
-1994,2,5,NED
-1994,5,6,ESP
-1994,7,7,ROU
-1994,6,8,NOR
-1994,8,9,ARG
-1994,11,10,NGA
-1994,12,11,SUI
-1994,9,12,DEN
-1994,14,13,IRL
-1994,29,14,BUL
-1994,16,15,MEX
-1994,13,16,FRA
-1994,17,17,COL
-1994,15,18,ENG
-1994,19,19,RUS
-1994,27,20,BEL
-1994,20,21,ZAM
-1994,23,22,USA
-1994,18,23,URU
-1994,21,24,CIV
-1994,22,25,POR
-1994,25,26,EGY
-1994,24,27,CMR
-1994,26,28,GHA
-1994,34,29,KSA
-1994,28,30,MAR
-1994,30,31,TUN
-1994,31,34,GRE
-1998,1,1,BRA
-1998,18,2,FRA
-1998,2,3,GER
-1998,19,4,CRO
-1998,6,5,ARG
-1998,3,6,CZE
-1998,8,7,YUG
-1998,25,8,NED
-1998,14,8,ITA
-1998,5,10,ENG
-1998,7,11,NOR
-1998,4,12,MEX
-1998,22,13,ROU
-1998,15,14,ESP
-1998,9,15,CHI
-1998,13,16,MAR
-1998,10,17,COL
-1998,27,18,DEN
-1998,11,19,USA
-1998,17,20,EGY
-1998,20,21,KOR
-1998,12,22,JPN
-1998,31,23,AUT
-1998,23,24,ZAM
-1998,21,25,TUN
-1998,29,26,PAR
-1998,24,27,RSA
-1998,16,28,RUS
-1998,30,29,JAM
-1998,28,30,SWE
-1998,36,31,BEL
-1998,26,41,ECU
-2002,2,1,BRA
-2002,3,2,ARG
-2002,1,3,FRA
-2002,8,4,ESP
-2002,11,5,GER
-2002,7,6,MEX
-2002,5,7,POR
-2002,12,8,ENG
-2002,4,9,COL
-2002,6,10,ITA
-2002,13,11,USA
-2002,22,12,TUR
-2002,20,13,DEN
-2002,15,14,IRL
-2002,9,15,NED
-2002,10,16,YUG
-2002,17,17,CMR
-2002,18,18,PAR
-2002,23,19,BEL
-2002,19,20,SWE
-2002,16,21,CZE
-2002,40,22,KOR
-2002,24,23,URU
-2002,32,24,JPN
-2002,14,25,ROU
-2002,29,26,CRC
-2002,21,27,CRO
-2002,28,28,RUS
-2002,27,29,NGA
-2002,26,30,HON
-2002,36,31,ECU
-2002,30,33,IRN
-2002,25,35,SVN
-2002,31,36,TUN
-2006,1,1,BRA
-2006,13,2,ITA
-2006,9,3,ARG
-2006,8,4,FRA
-2006,10,5,ENG
-2006,3,6,NED
-2006,5,7,ESP
-2006,7,8,POR
-2006,19,9,GER
-2006,2,10,CZE
-2006,11,11,NGA
-2006,15,12,CMR
-2006,35,13,SUI
-2006,22,14,URU
-2006,45,15,UKR
-2006,5,16,USA
-2006,11,17,DEN
-2006,4,18,MEX
-2006,33,19,PAR
-2006,32,20,CIV
-2006,27,21,COL
-2006,16,22,SWE
-2006,23,23,CRO
-2006,51,24,GUI
-2006,48,25,GHA
-2006,25,26,ROU
-2006,14,27,TUR
-2006,39,28,ECU
-2006,17,29,EGY
-2006,29,30,POL
-2006,21,31,TUN
-2006,20,32,GRE
-2006,28,35,SEN
-2006,31,39,IRL
-2006,26,45,CRC
-2006,23,47,IRN
-2006,18,49,JPN
-2006,29,56,KOR
-2010,2,1,ESP
-2010,4,2,NED
-2010,1,3,BRA
-2010,6,4,GER
-2010,7,5,ARG
-2010,16,6,URU
-2010,8,7,ENG
-2010,3,8,POR
-2010,12,9,EGY
-2010,18,10,CHI
-2010,5,11,ITA
-2010,13,12,GRE
-2010,14,13,USA
-2010,15,13,SRB
-2010,10,15,CRO
-2010,31,16,PAR
-2010,11,17,RUS
-2010,24,18,SUI
-2010,25,19,SVN
-2010,20,20,AUS
-2010,9,21,FRA
-2010,22,22,NOR
-2010,32,23,GHA
-2010,17,24,MEX
-2010,23,25,UKR
-2010,27,26,CIV
-2010,34,27,SVK
-2010,29,28,TUR
-2010,36,29,DEN
-2010,21,30,NGA
-2010,33,31,CZE
-2010,30,33,ALG
-2010,26,37,ISR
-2010,19,40,CMR
-2010,28,42,ROU
-2014,2,1,GER
-2014,5,2,ARG
-2014,15,3,NED
-2014,8,4,COL
-2014,11,5,BEL
-2014,7,6,URU
-2014,3,7,BRA
-2014,1,8,ESP
-2014,6,9,SUI
-2014,17,10,FRA
-2014,4,11,POR
-2014,14,12,CHI
-2014,12,13,GRE
-2014,9,14,ITA
-2014,13,15,USA
-2014,28,16,CRC
-2014,18,17,CRO
-2014,20,18,MEX
-2014,21,19,BIH
-2014,10,20,ENG
-2014,26,21,ECU
-2014,16,22,UKR
-2014,19,23,RUS
-2014,22,24,ALG
-2014,23,25,CIV
-2014,23,26,DEN
-2014,27,27,SCO
-2014,29,28,ROU
-2014,32,29,SWE
-2014,40,30,VEN
-2014,30,31,SRB
-2014,31,33,PAN
-2014,25,37,SVN
-2018,1,1,GER
-2018,2,2,BRA
-2018,3,3,POR
-2018,4,4,ARG
-2018,5,5,BEL
-2018,6,6,POL
-2018,6,6,ESP
-2018,8,8,SUI
-2018,9,9,FRA
-2018,10,10,CHI
-2018,11,11,PER
-2018,12,12,DEN
-2018,13,13,COL
-2018,14,14,ITA
-2018,15,15,CRO
-2018,16,16,ENG
-2018,17,17,MEX
-2018,18,18,ISL
-2018,19,19,SWE
-2018,20,20,WAL
-2018,21,21,NED
-2018,22,22,URU
-2018,23,23,TUN
-2018,24,24,NIR
-2018,25,25,USA
-2018,26,26,CRC
-2018,27,27,SEN
-2018,28,28,AUT
-2018,29,29,SVK
-2018,30,31,PAR
-2018,31,31,IRL
-2018,32,32,SCO
+﻿Year,Rank_pre,Rank_post,Code,result
+1994,1,4,GER,Quartas
+1994,2,5,NED,Quartas
+1994,3,1,BRA,Campeão
+1994,4,2,ITA,Vice-campeão
+1994,5,6,ESP,Quartas
+1994,6,8,NOR,Grupo E
+1994,7,7,ROU,Quartas
+1994,8,9,ARG,Oitavas
+1994,9,12,DEN,Não se classificou
+1994,10,3,SWE,3º
+1994,11,10,NGA,Oitavas
+1994,12,11,SUI,Oitavas
+1994,13,16,FRA,Não se classificou
+1994,14,13,IRL,Oitavas
+1994,15,18,ENG,Não se classificou
+1994,16,15,MEX,Oitavas
+1994,17,17,COL,Grupo A
+1994,18,23,URU,Não se classificou
+1994,19,19,RUS,Grupo B
+1994,20,21,ZAM,Não se classificou
+1994,21,24,CIV,Não se classificou
+1994,22,25,POR,Não se classificou
+1994,23,22,USA,Oitavas
+1994,24,27,CMR,Grupo B
+1994,25,26,EGY,Não se classificou
+1994,26,28,GHA,Não se classificou
+1994,27,20,BEL,Oitavas
+1994,28,30,MAR,Grupo F
+1994,29,14,BUL,4º
+1994,30,31,TUN,Não se classificou
+1994,31,34,GRE,Grupo D
+1994,32,32,POL,Não se classificou
+1994,33,33,SCO,Não se classificou
+1994,34,29,KSA,Oitavas
+1994,35,35,WAL,Não se classificou
+1994,36,37,AUT,Não se classificou
+1994,37,36,KOR,Grupo C
+1994,38,42,ISL,Não se classificou
+1994,39,46,ECU,Não se classificou
+1994,40,40,CHI,Não se classificou
+1994,41,39,NIR,Não se classificou
+1994,42,49,ZIM,Não se classificou
+1994,43,41,BOL,Grupo C
+1994,44,43,SVK,Não se classificou
+1994,45,44,CZE,Não se classificou
+1994,46,45,FIN,Não se classificou
+1994,47,47,AUS,Não se classificou
+1994,48,48,ALG,Não se classificou
+1994,49,50,MLI,Não se classificou
+1994,50,51,HON,Não se classificou
+1994,51,54,CRC,Não se classificou
+1994,52,38,JPN,Não se classificou
+1994,53,52,ISR,Não se classificou
+1994,54,53,CAN,Não se classificou
+1994,55,56,SEN,Não se classificou
+1994,56,55,HUN,Não se classificou
+1994,57,57,TUR,Não se classificou
+1994,58,63,IRN,Não se classificou
+1994,59,62,CHN,Não se classificou
+1994,60,58,PAR,Não se classificou
+1994,61,61,GUI,Não se classificou
+1994,62,59,UAE,Não se classificou
+1994,63,60,ZAI,Não se classificou
+1994,64,64,GAB,Não se classificou
+1994,65,68,IRQ,Não se classificou
+1994,66,65,SLE,Não se classificou
+1994,67,72,PER,Não se classificou
+1994,68,66,SLV,Não se classificou
+1994,69,67,QAT,Não se classificou
+1994,70,80,JAM,Não se classificou
+1994,71,70,PRK,Não se classificou
+1994,72,69,MLT,Não se classificou
+1994,73,71,CYP,Não se classificou
+1994,74,73,KUW,Não se classificou
+1994,75,81,THA,Não se classificou
+1994,76,74,RSA,Não se classificou
+1994,77,77,OMA,Não se classificou
+1994,78,78,YUG,Não se classificou
+1994,79,75,SVN,Não se classificou
+1994,80,85,MWI,Não se classificou
+1994,81,76,NIG,Não se classificou
+1994,82,82,KEN,Não se classificou
+1994,83,79,UKR,Não se classificou
+1994,84,83,TRI,Não se classificou
+1994,85,86,LVA,Não se classificou
+1994,86,96,SYR,Não se classificou
+1994,87,87,SIN,Não se classificou
+1994,88,84,LTU,Não se classificou
+1994,89,89,BER,Não se classificou
+1994,90,88,NZL,Não se classificou
+1994,91,90,CRO,Não se classificou
+1994,92,91,BHR,Não se classificou
+1994,93,92,SUR,Não se classificou
+1994,94,95,VEN,Não se classificou
+1994,95,93,MAS,Não se classificou
+1994,96,98,JOR,Não se classificou
+1994,97,94,FIJ,Não se classificou
+1994,98,97,BRB,Não se classificou
+1994,99,99,TAN,Não se classificou
+1994,100,113,SWZ,Não se classificou
+1994,102,100,BFA,Não se classificou
+1998,1,1,BRA,Vice-campeão
+1998,2,3,GER,Quartas
+1998,3,6,CZE,Não se classificou
+1998,4,12,MEX,Oitavas
+1998,5,10,ENG,Oitavas
+1998,6,5,ARG,Quartas
+1998,7,11,NOR,Oitavas
+1998,8,7,YUG,Oitavas
+1998,9,15,CHI,Oitavas
+1998,10,17,COL,Grupo G
+1998,11,19,USA,Grupo F
+1998,12,22,JPN,Grupo H
+1998,13,16,MAR,Grupo A
+1998,14,8,ITA,Quartas
+1998,15,14,ESP,Grupo D
+1998,16,28,RUS,Não se classificou
+1998,17,20,EGY,Não se classificou
+1998,18,2,FRA,Campeão
+1998,19,4,CRO,3º
+1998,20,21,KOR,Grupo E
+1998,21,25,TUN,Grupo G
+1998,22,13,ROU,Oitavas
+1998,23,24,ZAM,Não se classificou
+1998,24,27,RSA,Grupo C
+1998,25,8,NED,4º
+1998,26,41,ECU,Não se classificou
+1998,27,18,DEN,Quartas
+1998,28,30,SWE,Não se classificou
+1998,29,26,PAR,Oitavas
+1998,30,29,JAM,Grupo H
+1998,31,23,AUT,Grupo B
+1998,32,38,AUS,Não se classificou
+1998,33,54,BOL,Não se classificou
+1998,34,33,KSA,Grupo C
+1998,35,34,BUL,Grupo D
+1998,36,31,BEL,Grupo E
+1998,37,43,PER,Não se classificou
+1998,38,35,URU,Não se classificou
+1998,39,42,POR,Não se classificou
+1998,40,32,SVK,Não se classificou
+1998,41,36,SCO,Grupo A
+1998,42,37,IRN,Grupo F
+1998,43,52,KUW,Não se classificou
+1998,44,45,CIV,Não se classificou
+1998,45,55,LTU,Não se classificou
+1998,46,47,IRL,Não se classificou
+1998,47,39,ISR,Não se classificou
+1998,48,59,TRI,Não se classificou
+1998,49,40,CMR,Grupo B
+1998,50,46,THA,Não se classificou
+1998,51,49,CHN,Não se classificou
+1998,52,44,GEO,Não se classificou
+1998,53,53,TUR,Não se classificou
+1998,54,48,POL,Não se classificou
+1998,55,50,GRE,Não se classificou
+1998,56,57,ANG,Não se classificou
+1998,57,63,ALG,Não se classificou
+1998,58,51,CRC,Não se classificou
+1998,59,58,UAE,Não se classificou
+1998,60,61,GUI,Não se classificou
+1998,61,62,FIN,Não se classificou
+1998,62,56,HUN,Não se classificou
+1998,63,60,ZAI,Não se classificou
+1998,64,66,UKR,Não se classificou
+1998,65,65,GHA,Não se classificou
+1998,66,67,MLI,Não se classificou
+1998,67,68,BFA,Não se classificou
+1998,68,70,SLV,Não se classificou
+1998,69,75,MOZ,Não se classificou
+1998,70,72,QAT,Não se classificou
+1998,71,76,MKD,Não se classificou
+1998,72,69,ISL,Não se classificou
+1998,73,77,TOG,Não se classificou
+1998,74,64,NGA,Oitavas
+1998,75,74,GUA,Não se classificou
+1998,76,81,NAM,Não se classificou
+1998,77,80,CAN,Não se classificou
+1998,78,85,SEN,Não se classificou
+1998,79,82,GAB,Não se classificou
+1998,80,84,UZB,Não se classificou
+1998,81,73,SUI,Não se classificou
+1998,82,91,LVA,Não se classificou
+1998,83,78,CYP,Não se classificou
+1998,84,71,ZIM,Não se classificou
+1998,85,89,IRQ,Não se classificou
+1998,86,86,HON,Não se classificou
+1998,87,98,OMA,Não se classificou
+1998,88,79,CUB,Não se classificou
+1998,89,83,IDN,Não se classificou
+1998,90,88,NIR,Não se classificou
+1998,91,87,SLE,Não se classificou
+1998,92,106,SYR,Não se classificou
+1998,93,92,KEN,Não se classificou
+1998,94,93,SVN,Não se classificou
+1998,95,105,TAN,Não se classificou
+1998,96,99,LIB,Não se classificou
+1998,97,100,MWI,Não se classificou
+1998,98,104,LBR,Não se classificou
+1998,99,96,MAS,Não se classificou
+1998,100,95,VIE,Não se classificou
+1998,101,97,ALB,Não se classificou
+1998,102,94,BIH,Não se classificou
+1998,106,89,SIN,Não se classificou
+2002,1,3,FRA,Grupo A
+2002,2,1,BRA,Campeão
+2002,3,2,ARG,Grupo F
+2002,4,9,COL,Não se classificou
+2002,5,7,POR,Grupo D
+2002,6,10,ITA,Oitavas
+2002,7,6,MEX,Oitavas
+2002,8,4,ESP,Quartas
+2002,9,15,NED,Não se classificou
+2002,10,16,YUG,Não se classificou
+2002,11,5,GER,Vice-campeão
+2002,12,8,ENG,Quartas
+2002,13,11,USA,Quartas
+2002,14,25,ROU,Não se classificou
+2002,15,14,IRL,Oitavas
+2002,16,21,CZE,Não se classificou
+2002,17,17,CMR,Grupo E
+2002,18,18,PAR,Oitavas
+2002,19,20,SWE,Oitavas
+2002,20,13,DEN,Oitavas
+2002,21,27,CRO,Grupo G
+2002,22,12,TUR,3º
+2002,23,19,BEL,Oitavas
+2002,24,23,URU,Grupo A
+2002,25,35,SVN,Grupo B
+2002,26,30,HON,Não se classificou
+2002,27,29,NGA,Grupo F
+2002,28,28,RUS,Grupo H
+2002,29,26,CRC,Grupo C
+2002,30,33,IRN,Não se classificou
+2002,31,36,TUN,Grupo H
+2002,32,24,JPN,Oitavas
+2002,33,37,NOR,Não se classificou
+2002,34,38,KSA,Grupo E
+2002,35,42,TRI,Não se classificou
+2002,36,31,ECU,Grupo G
+2002,37,34,RSA,Grupo B
+2002,38,39,POL,Grupo D
+2002,39,40,MAR,Não se classificou
+2002,40,22,KOR,4º
+2002,41,41,FIN,Não se classificou
+2002,42,32,SEN,Quartas
+2002,43,44,EGY,Não se classificou
+2002,44,43,UKR,Não se classificou
+2002,45,45,CHI,Grupo C
+2002,46,47,CIV,Não se classificou
+2002,47,48,PER,Não se classificou
+2002,48,50,AUS,Não se classificou
+2002,49,46,SVK,Não se classificou
+2002,50,51,CHN,Não se classificou
+2002,51,52,ISR,Não se classificou
+2002,52,57,GHA,Não se classificou
+2002,53,49,GRE,Não se classificou
+2002,54,54,BUL,Não se classificou
+2002,55,56,SCO,Não se classificou
+2002,56,53,ISL,Não se classificou
+2002,57,59,JAM,Não se classificou
+2002,58,60,ANG,Não se classificou
+2002,59,55,GEO,Não se classificou
+2002,60,62,THA,Não se classificou
+2002,61,58,AUT,Não se classificou
+2002,62,65,GUA,Não se classificou
+2002,63,61,UAE,Não se classificou
+2002,64,64,SUI,Não se classificou
+2002,65,66,ZAM,Não se classificou
+2002,66,63,ZIM,Não se classificou
+2002,67,71,UZB,Não se classificou
+2002,68,67,HUN,Não se classificou
+2002,69,72,TOG,Não se classificou
+2002,70,74,BOL,Não se classificou
+2002,71,69,IRQ,Não se classificou
+2002,72,73,BIH,Não se classificou
+2002,73,70,QAT,Não se classificou
+2002,74,76,COD,Não se classificou
+2002,75,68,CAN,Não se classificou
+2002,76,78,LBR,Não se classificou
+2002,77,75,KUW,Não se classificou
+2002,78,80,CUB,Não se classificou
+2002,79,79,ALG,Não se classificou
+2002,80,77,BFA,Não se classificou
+2002,81,84,HAI,Não se classificou
+2002,82,82,CYP,Não se classificou
+2002,83,81,VEN,Não se classificou
+2002,84,87,SLV,Não se classificou
+2002,85,86,MLI,Não se classificou
+2002,86,85,EST,Não se classificou
+2002,87,88,NZL,Não se classificou
+2002,88,83,BLR,Não se classificou
+2002,89,90,MKD,Não se classificou
+2002,90,89,NIR,Não se classificou
+2002,91,91,OMA,Não se classificou
+2002,92,93,IDN,Não se classificou
+2002,93,94,SYR,Não se classificou
+2002,94,97,LIB,Não se classificou
+2002,95,95,ALB,Não se classificou
+2002,96,92,WAL,Não se classificou
+2002,97,98,CGO,Não se classificou
+2002,98,100,LTU,Não se classificou
+2002,99,96,LVA,Não se classificou
+2002,100,99,JOR,Não se classificou
+2006,1,1,BRA,Quartas
+2006,2,10,CZE,Grupo E
+2006,3,6,NED,Oitavas
+2006,4,18,MEX,Oitavas
+2006,5,7,ESP,Oitavas
+2006,5,16,USA,Grupo E
+2006,7,8,POR,4º
+2006,8,4,FRA,Vice-campeão
+2006,9,3,ARG,Quartas
+2006,10,5,ENG,Quartas
+2006,11,17,DEN,Não se classificou
+2006,11,11,NGA,Não se classificou
+2006,13,2,ITA,Campeão
+2006,14,27,TUR,Não se classificou
+2006,15,12,CMR,Não se classificou
+2006,16,22,SWE,Oitavas
+2006,17,29,EGY,Não se classificou
+2006,18,49,JPN,Grupo F
+2006,19,9,GER,3º
+2006,20,32,GRE,Não se classificou
+2006,21,31,TUN,Grupo H
+2006,22,14,URU,Não se classificou
+2006,23,23,CRO,Grupo F
+2006,23,47,IRN,Grupo D
+2006,25,26,ROU,Não se classificou
+2006,26,45,CRC,Grupo A
+2006,27,21,COL,Não se classificou
+2006,28,35,SEN,Não se classificou
+2006,29,56,KOR,Grupo G
+2006,29,30,POL,Grupo A
+2006,31,39,IRL,Não se classificou
+2006,32,20,CIV,Grupo C
+2006,33,19,PAR,Grupo B
+2006,34,81,KSA,Grupo H
+2006,35,13,SUI,Oitavas
+2006,36,40,MAR,Não se classificou
+2006,37,37,BUL,Não se classificou
+2006,37,34,RUS,Não se classificou
+2006,39,28,ECU,Oitavas
+2006,40,52,NOR,Não se classificou
+2006,41,44,SVK,Não se classificou
+2006,42,33,AUS,Oitavas
+2006,42,38,HON,Não se classificou
+2006,44,36,SCG,Grupo C
+2006,45,15,UKR,Quartas
+2006,46,78,JAM,Não se classificou
+2006,47,64,TRI,Grupo B
+2006,48,25,GHA,Oitavas
+2006,49,70,FIN,Não se classificou
+2006,49,51,ISR,Não se classificou
+2006,51,24,GUI,Não se classificou
+2006,52,88,IRQ,Não se classificou
+2006,53,72,RSA,Não se classificou
+2006,54,94,BHR,Não se classificou
+2006,55,66,ZIM,Não se classificou
+2006,56,57,BEL,Não se classificou
+2006,57,55,ANG,Grupo D
+2006,57,62,ZAM,Não se classificou
+2006,59,41,SCO,Não se classificou
+2006,60,50,UZB,Não se classificou
+2006,61,48,TOG,Grupo G
+2006,62,53,GUA,Não se classificou
+2006,63,43,BIH,Não se classificou
+2006,64,46,CHI,Não se classificou
+2006,65,73,BLR,Não se classificou
+2006,66,63,MLI,Não se classificou
+2006,66,42,PER,Não se classificou
+2006,68,89,CHN,Não se classificou
+2006,69,67,COD,Não se classificou
+2006,70,82,LVA,Não se classificou
+2006,71,61,SVN,Não se classificou
+2006,71,90,UAE,Não se classificou
+2006,71,68,VEN,Não se classificou
+2006,74,100,KUW,Não se classificou
+2006,74,58,WAL,Não se classificou
+2006,76,84,HUN,Não se classificou
+2006,77,82,EST,Não se classificou
+2006,78,76,QAT,Não se classificou
+2006,79,60,AUT,Não se classificou
+2006,80,96,CUB,Não se classificou
+2006,81,59,PAN,Não se classificou
+2006,82,86,OMA,Não se classificou
+2006,83,54,CAN,Não se classificou
+2006,84,98,JOR,Não se classificou
+2006,85,65,ALB,Não se classificou
+2006,86,79,LBY,Não se classificou
+2006,87,93,ALG,Não se classificou
+2006,88,91,PRK,Não se classificou
+2006,89,74,BFA,Não se classificou
+2006,90,110,SYR,Não se classificou
+2006,91,70,MKD,Não se classificou
+2006,92,111,SIN,Não se classificou
+2006,93,69,LTU,Não se classificou
+2006,94,103,RWA,Não se classificou
+2006,95,117,KEN,Não se classificou
+2006,96,75,NIR,Não se classificou
+2006,97,113,SDN,Não se classificou
+2006,97,99,UGA,Não se classificou
+2006,99,107,ISL,Não se classificou
+2006,100,92,CYP,Não se classificou
+2006,101,87,GEO,Não se classificou
+2006,102,85,BOL,Não se classificou
+2006,104,77,MDA,Não se classificou
+2006,105,96,GAB,Não se classificou
+2006,107,80,MWI,Não se classificou
+2006,154,95,EQG,Não se classificou
+2006,211,36,SRB,Disputou como Sérvia e Montenegro (SCG)
+2010,1,3,BRA,Quartas
+2010,2,1,ESP,Campeão
+2010,3,8,POR,Oitavas
+2010,4,2,NED,Vice-campeão
+2010,5,11,ITA,Grupo F
+2010,6,4,GER,3º
+2010,7,5,ARG,Quartas
+2010,8,7,ENG,Oitavas
+2010,9,21,FRA,Grupo A
+2010,10,15,CRO,Não se classificou
+2010,11,17,RUS,Não se classificou
+2010,12,9,EGY,Não se classificou
+2010,13,12,GRE,Grupo B
+2010,14,13,USA,Oitavas
+2010,15,13,SRB,Grupo D
+2010,16,6,URU,4º
+2010,17,24,MEX,Oitavas
+2010,18,10,CHI,Oitavas
+2010,19,40,CMR,Grupo E
+2010,20,20,AUS,Grupo D
+2010,21,30,NGA,Grupo B
+2010,22,22,NOR,Não se classificou
+2010,23,25,UKR,Não se classificou
+2010,24,18,SUI,Grupo H
+2010,25,19,SVN,Grupo C
+2010,26,37,ISR,Não se classificou
+2010,27,26,CIV,Grupo G
+2010,28,42,ROU,Não se classificou
+2010,29,28,TUR,Não se classificou
+2010,30,33,ALG,Grupo C
+2010,31,16,PAR,Quartas
+2010,32,23,GHA,Quartas
+2010,33,31,CZE,Não se classificou
+2010,34,27,SVK,Oitavas
+2010,35,39,COL,Não se classificou
+2010,36,29,DEN,Grupo E
+2010,37,35,SWE,Não se classificou
+2010,38,46,HON,Grupo H
+2010,39,43,BUL,Não se classificou
+2010,40,49,CRC,Não se classificou
+2010,41,36,IRL,Não se classificou
+2010,42,34,GAB,Não se classificou
+2010,43,41,SCO,Não se classificou
+2010,44,58,ECU,Não se classificou
+2010,45,32,JPN,Oitavas
+2010,46,50,LVA,Não se classificou
+2010,47,44,KOR,Oitavas
+2010,48,45,BFA,Não se classificou
+2010,49,52,LTU,Não se classificou
+2010,49,47,VEN,Não se classificou
+2010,51,57,BIH,Não se classificou
+2010,52,51,FIN,Não se classificou
+2010,53,38,PER,Não se classificou
+2010,54,55,MLI,Não se classificou
+2010,55,65,TUN,Não se classificou
+2010,56,59,NIR,Não se classificou
+2010,57,62,HUN,Não se classificou
+2010,58,56,POL,Não se classificou
+2010,59,48,BEL,Não se classificou
+2010,60,61,BEN,Não se classificou
+2010,61,64,IRN,Não se classificou
+2010,61,66,MKD,Não se classificou
+2010,63,100,CAN,Não se classificou
+2010,64,72,MNE,Não se classificou
+2010,65,53,BOL,Não se classificou
+2010,66,68,KSA,Não se classificou
+2010,67,63,CYP,Não se classificou
+2010,68,60,AUT,Não se classificou
+2010,69,69,BHR,Não se classificou
+2010,70,82,MAR,Não se classificou
+2010,71,73,ZAM,Não se classificou
+2010,72,90,SLV,Não se classificou
+2010,73,70,UGA,Não se classificou
+2010,74,94,PAN,Não se classificou
+2010,75,91,SEN,Não se classificou
+2010,76,75,TOG,Não se classificou
+2010,77,84,WAL,Não se classificou
+2010,78,54,NZL,Grupo F
+2010,79,71,ALB,Não se classificou
+2010,80,104,IRQ,Não se classificou
+2010,81,83,JAM,Não se classificou
+2010,82,77,BLR,Não se classificou
+2010,83,66,RSA,Grupo A
+2010,84,78,CHN,Não se classificou
+2010,85,80,MOZ,Não se classificou
+2010,86,74,MWI,Não se classificou
+2010,87,101,GUI,Não se classificou
+2010,88,86,ANG,Não se classificou
+2010,89,89,MDA,Não se classificou
+2010,90,79,ISL,Não se classificou
+2010,91,130,HAI,Não se classificou
+2010,91,81,OMA,Não se classificou
+2010,93,102,GAM,Não se classificou
+2010,94,87,UZB,Não se classificou
+2010,95,76,TRI,Não se classificou
+2010,96,98,QAT,Não se classificou
+2010,97,85,KUW,Não se classificou
+2010,98,92,SYR,Não se classificou
+2010,99,95,EST,Não se classificou
+2010,100,96,ARM,Não se classificou
+2010,101,88,UAE,Não se classificou
+2010,102,96,LBY,Não se classificou
+2010,104,98,JOR,Não se classificou
+2010,105,103,PRK,Grupo G
+2010,116,93,BOT,Não se classificou
+2014,1,8,ESP,Grupo B
+2014,2,1,GER,Campeão
+2014,3,7,BRA,4º
+2014,4,11,POR,Grupo G
+2014,5,2,ARG,Vice-campeão
+2014,6,9,SUI,Oitavas
+2014,7,6,URU,Oitavas
+2014,8,4,COL,Quartas
+2014,9,14,ITA,Grupo D
+2014,10,20,ENG,Grupo D
+2014,11,5,BEL,Quartas
+2014,12,13,GRE,Oitavas
+2014,13,15,USA,Oitavas
+2014,14,12,CHI,Oitavas
+2014,15,3,NED,3º
+2014,16,22,UKR,Não se classificou
+2014,17,10,FRA,Quartas
+2014,18,17,CRO,Grupo A
+2014,19,23,RUS,Grupo H
+2014,20,18,MEX,Oitavas
+2014,21,19,BIH,Grupo F
+2014,22,24,ALG,Oitavas
+2014,23,25,CIV,Grupo C
+2014,23,26,DEN,Não se classificou
+2014,25,37,SVN,Não se classificou
+2014,26,21,ECU,Grupo E
+2014,27,27,SCO,Não se classificou
+2014,28,16,CRC,Quartas
+2014,29,28,ROU,Não se classificou
+2014,30,31,SRB,Não se classificou
+2014,31,33,PAN,Não se classificou
+2014,32,29,SWE,Não se classificou
+2014,33,40,HON,Grupo E
+2014,34,35,CZE,Não se classificou
+2014,35,32,TUR,Não se classificou
+2014,36,36,EGY,Não se classificou
+2014,37,38,GHA,Grupo G
+2014,38,41,ARM,Não se classificou
+2014,39,75,CPV,Não se classificou
+2014,40,30,VEN,Não se classificou
+2014,41,44,WAL,Não se classificou
+2014,42,43,AUT,Não se classificou
+2014,43,49,IRN,Grupo F
+2014,44,34,NGA,Oitavas
+2014,45,59,PER,Não se classificou
+2014,46,45,JPN,Grupo C
+2014,47,38,HUN,Não se classificou
+2014,48,42,TUN,Não se classificou
+2014,49,46,SVK,Não se classificou
+2014,50,48,PAR,Não se classificou
+2014,51,50,MNE,Não se classificou
+2014,52,51,GUI,Não se classificou
+2014,52,47,ISL,Não se classificou
+2014,54,64,SLE,Não se classificou
+2014,55,53,NOR,Não se classificou
+2014,56,53,CMR,Grupo A
+2014,57,56,KOR,Grupo H
+2014,57,60,MLI,Não se classificou
+2014,59,52,UZB,Não se classificou
+2014,60,58,BFA,Não se classificou
+2014,61,55,FIN,Não se classificou
+2014,62,76,AUS,Grupo B
+2014,63,57,JOR,Não se classificou
+2014,64,63,LBY,Não se classificou
+2014,65,66,RSA,Não se classificou
+2014,66,67,ALB,Não se classificou
+2014,67,71,BOL,Não se classificou
+2014,68,121,SLV,Não se classificou
+2014,69,61,POL,Não se classificou
+2014,70,70,IRL,Não se classificou
+2014,71,84,TRI,Não se classificou
+2014,72,65,UAE,Não se classificou
+2014,73,113,HAI,Não se classificou
+2014,74,62,SEN,Não se classificou
+2014,75,67,ISR,Não se classificou
+2014,76,77,ZAM,Não se classificou
+2014,77,79,MAR,Não se classificou
+2014,78,72,BUL,Não se classificou
+2014,79,69,OMA,Não se classificou
+2014,80,74,MKD,Não se classificou
+2014,81,83,JAM,Não se classificou
+2014,82,81,BLR,Não se classificou
+2014,83,73,AZE,Não se classificou
+2014,84,96,COD,Não se classificou
+2014,85,82,CGO,Não se classificou
+2014,86,87,UGA,Não se classificou
+2014,87,91,BEN,Não se classificou
+2014,88,88,TOG,Não se classificou
+2014,89,93,GAB,Não se classificou
+2014,90,78,KSA,Não se classificou
+2014,90,89,NIR,Não se classificou
+2014,92,99,BOT,Não se classificou
+2014,93,79,ANG,Não se classificou
+2014,94,85,PLE,Não se classificou
+2014,95,120,CUB,Não se classificou
+2014,96,96,GEO,Não se classificou
+2014,97,101,NZL,Não se classificou
+2014,98,92,EST,Não se classificou
+2014,99,98,ZIM,Não se classificou
+2014,100,86,QAT,Não se classificou
+2014,103,94,CHN,Não se classificou
+2014,104,89,IRQ,Não se classificou
+2014,108,95,KEN,Não se classificou
+2014,112,99,NIG,Não se classificou
+2018,1,1,GER,
+2018,2,2,BRA,
+2018,3,3,BEL,
+2018,4,4,POR,
+2018,5,5,ARG,
+2018,6,6,SUI,
+2018,7,7,FRA,
+2018,8,8,ESP,
+2018,9,9,CHI,
+2018,10,10,POL,
+2018,11,11,PER,
+2018,12,12,DEN,
+2018,13,13,ENG,
+2018,14,14,TUN,
+2018,15,15,MEX,
+2018,16,16,COL,
+2018,17,17,URU,
+2018,18,18,CRO,
+2018,19,19,NED,
+2018,20,20,ITA,
+2018,21,21,WAL,
+2018,22,22,ISL,
+2018,23,23,SWE,
+2018,24,24,USA,
+2018,25,25,CRC,
+2018,26,26,AUT,
+2018,27,27,NIR,
+2018,28,28,SEN,
+2018,29,29,SVK,
+2018,30,30,UKR,
+2018,31,31,IRL,
+2018,32,32,PAR,
+2018,32,32,ROU,
+2018,34,34,SCO,
+2018,35,35,SRB,
+2018,36,36,IRN,
+2018,37,37,TUR,
+2018,38,38,COD,
+2018,39,39,VEN,
+2018,40,40,AUS,
+2018,41,41,BIH,
+2018,42,42,MAR,
+2018,43,43,MNE,
+2018,44,44,GRE,
+2018,45,45,CZE,
+2018,46,46,EGY,
+2018,47,47,NGA,
+2018,48,48,NOR,
+2018,49,49,HUN,
+2018,50,50,CMR,
+2018,50,50,GHA,
+2018,52,52,JAM,
+2018,53,53,BUL,
+2018,54,54,BFA,
+2018,55,55,PAN,
+2018,56,56,ALB,
+2018,57,57,BOL,
+2018,58,58,CPV,
+2018,59,59,HON,
+2018,60,60,JPN,
+2018,61,61,KOR,
+2018,62,62,FIN,
+2018,63,63,ECU,
+2018,64,64,ALG,
+2018,65,65,SVN,
+2018,66,66,RUS,
+2018,67,67,KSA,
+2018,67,67,MLI,
+2018,69,69,CIV,
+2018,70,70,GUI,
+2018,71,71,CUW,
+2018,72,72,RSA,
+2018,73,73,CHN,
+2018,74,74,UGA,
+2018,75,75,KGZ,
+2018,76,76,SYR,
+2018,77,77,MKD,
+2018,78,78,ZAM,
+2018,79,79,BLR,
+2018,80,80,CAN,
+2018,81,81,UAE,
+2018,82,82,LIB,
+2018,83,83,LUX,
+2018,84,84,BEN,
+2018,85,85,SLV,
+2018,86,86,CYP,
+2018,87,87,OMA,
+2018,88,88,UZB,
+2018,89,89,CGO,
+2018,90,90,GAB,
+2018,91,91,IRQ,
+2018,92,92,TRI,
+2018,93,93,EST,
+2018,93,93,FRO,
+2018,95,95,GEO,
+2018,96,96,PLE,
+2018,97,97,IND,
+2018,98,98,ARM,
+2018,98,98,ISR,
+2018,100,100,LBY,

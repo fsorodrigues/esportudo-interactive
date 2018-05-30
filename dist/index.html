@@ -34,7 +34,7 @@
 		<section class="text-body">
 			<div class="container-fluid">
 				<div class="row text-container">
-					<div class="col-md-5 offset-md-3">
+					<div class="col-12 col-md-5 offset-md-3">
 
 						<!-- <h1 class="title">World Cup</h1> -->
 						<p>Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Leite de capivaris, leite de mula manquis sem cabeça. Manduma pindureta quium dia nois paga. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.</p>
@@ -58,7 +58,13 @@
 
 				<div class="row interaction-container">
 
-					<div class="col-6 col-md-6 offset-md-2" id="button-container"></div>
+					<div class="col-4 col-md-4 offset-md-2" id="button-container"></div>
+					<div class="col-6 col-md-2">
+						<!-- <div><p class="legend-title"><i class="arrow left"></i> Pior Melhor <i class="arrow right"></i></p></div> -->
+						<div><p class="legend-title">- Ranking +</p></div>
+						<div></div>
+						<div id="key-container"></div>
+					</div>
 
 				</div>
 
@@ -66,6 +72,8 @@
 
 					<div class="col-9 col-md-6 offset-md-2" id="all-years-container"></div>
 					<div class="col-2 col-md-1" id="one-year-container"></div>
+					<div class="col-3 col-md-1" id='tooltip-rankings-container'></div>
+					<div class="col-3 col-md-1" id='tooltip-2-rankings-container'></div>
 
 				</div>
 			</div>
@@ -101,6 +109,7 @@
 				<div class="row viz-container">
 
 					<div class="col-12 col-md-7 offset-md-2" id="bar-chart-container"></div>
+					<div id='tooltip-bar-chart-container'></div>
 
 				</div>
 
@@ -138,7 +147,7 @@
 				<div class="row viz-container">
 
 					<div class="col-12 col-md-7 offset-md-2" id="scatterplot-chart-container"></div>
-					<div class="col-12 col-md-4 offset-md-2" id='tooltip-scatterplot-chart-container'></div>
+					<div class="offset-md-2" id='tooltip-scatterplot-chart-container'></div>
 
 				</div>
 
@@ -213,7 +222,7 @@
 					<div class="col-12 col-md-6 offset-md-2" id="scatterplot-chart-2-container"></div>
 					<div class="col-md-2"><h6>explaining</h6>
 						<small><p>Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Leite de capivaris, leite de mula manquis sem cabeça. Manduma pindureta quium dia nois paga. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.</p></small></div>
-					<div class="col-12 col-md-4 offset-md-2" id='tooltip-scatterplot-2-chart-container'></div>
+					<div class="offset-md-2" id='tooltip-scatterplot-chart-2-container'></div>
 
 				</div>
 
