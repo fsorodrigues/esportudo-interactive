@@ -5,6 +5,7 @@
    	 	<meta name="viewport" content="width=device-width">
 	</head>
 	<body>
+
 		<section class="header">
 			<div class="container-fluid">
 				<div class="row header-container">
@@ -16,18 +17,28 @@
 			</div>
 		</section>
 
-		<section class="hero">
+		<section class="hero-container">
 			<!-- <div class="container-fluid"> -->
-				<!-- <div class="row header-container"> -->
+				<div class="row no-gutters image-container">
 
-					<!-- <div class="col-md-12 hero-container"> -->
-						<img src="./img/hero-img.png" width="100%"/>
+					<!-- <div class="col-12 col-md-12 headline-container">
 
 						<h1 class="hero-title">A Seleção em perspectiva</h1>
 						<h3 class="hero-subtitle">As forças e fraquezas da equipe 2018 diante dos times das últimas 6 Copas.</h3>
-					<!-- </div> -->
+					</div> -->
 
-				<!-- </div> -->
+				</div>
+
+				<div class="row no-gutters">
+
+					<div class="col-12 col-md-12 headline-container">
+
+						<h1 class="hero-title">A Seleção em perspectiva</h1>
+						<h3 class="hero-subtitle">Raio-X em números da equipe na Rússia diante dos times 94 até hoje</h3>
+						<h6 class="hero-byline font-weight-light">por <span class="text-uppercase font-weight-bold">Felippe Rodrigues</span></h3>
+					</div>
+
+				</div>
 			<!-- </div> -->
 		</section>
 
@@ -36,8 +47,9 @@
 				<div class="row text-container">
 					<div class="col-12 col-md-5 offset-md-3">
 
-						<!-- <h1 class="title">World Cup</h1> -->
 						<p>Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Leite de capivaris, leite de mula manquis sem cabeça. Manduma pindureta quium dia nois paga. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.</p>
+						<p>Viva Forevis aptent taciti sociosqu ad litora torquent. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose. Si num tem leite então bota uma pinga aí cumpadi! A ordem dos tratores não altera o pão duris.</p>
+						<p>Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis. Diuretics paradis num copo é motivis de denguis. Mé faiz elementum girarzis, nisi eros vermeio. Quem manda na minha terra sou euzis!</p>
 						<p>Viva Forevis aptent taciti sociosqu ad litora torquent. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose. Si num tem leite então bota uma pinga aí cumpadi! A ordem dos tratores não altera o pão duris.</p>
 
 					</div>
@@ -60,7 +72,6 @@
 
 					<div class="col-4 col-md-4 offset-md-2" id="button-container"></div>
 					<div class="col-7 col-md-3">
-						<!-- <div><p class="legend-title"><i class="arrow left"></i> Pior Melhor <i class="arrow right"></i></p></div> -->
 						<div><p class="legend-title">- Ranking +</p></div>
 						<div></div>
 						<div id="key-container"></div>
@@ -72,8 +83,8 @@
 
 					<div class="col-9 col-md-6 offset-md-2" id="all-years-container"></div>
 					<div class="col-2 col-md-1" id="one-year-container"></div>
-					<div class="col-3 col-md-1" id='tooltip-rankings-container'></div>
-					<div class="col-3 col-md-1" id='tooltip-2-rankings-container'></div>
+					<div class="col-3 col-sm-2 col-md-1" id='tooltip-rankings-container'></div>
+					<div class="col-3 col-sm-2 col-md-1" id='tooltip-2-rankings-container'></div>
 
 				</div>
 			</div>
@@ -298,8 +309,12 @@
 
 				<div class="row viz-container">
 
-					<div class="col-12 col-md-7 offset-md-2" id="ternary-plot-chart-container"></div>
-					<div class="col-12 col-md-4 offset-md-2" id='tooltip-ternary-plot-chart-container'></div>
+					<div class="col-12 col-md-10 offset-md-2" id="ternary-plot-chart-container" style="min-height: 500px"></div>
+					<div class="col-12 col-md-3 offset-md-2" id='tooltip-ternary-plot-chart-container'></div>
+					<div class="col-12 col-md-7 offset-md-2" id="ternary-plot-img-container">
+						<img src='./img/ternary-plot-img.png' width="100%"/>
+					</div>
+
 
 				</div>
 
